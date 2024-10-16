@@ -1,7 +1,7 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
-### NAME : DEEPAK RAJ S
-### REG NO : 212222240023
+### NAME : TOM FRANCIES XAVIOUR L
+### REG NO : 212223110060
 
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
